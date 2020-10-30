@@ -1,0 +1,13 @@
+
+#ifndef INCLUDED_LINE_HEADER_
+#define INCLUDED_LINE_HEADER_
+
+#include "vector.hpp"
+
+struct Line {
+    Point p1; // íºê¸è„Ç…Ç†ÇÈì_1
+    Point p2; // íºê¸èÛÇ…Ç†ÇÈì_2
+};
+
+#endif // !INCLUDED_LINE_HEADER_
+// EOF
